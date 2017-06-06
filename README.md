@@ -13,4 +13,7 @@ After going the two books, you are most likely the top SAS coders now and these 
 - Loop
 - Macro
 
-
+## Database
+Though not directly related, knowledge about relational algebra and sql database would help a lot. I recommend the following
+1. Database course tought by Jennifer Widom from Stanford Online classes. 
+2. SAS(R) 9.3 SQL Procedure User's Guide from SAS (This is one the few manuals from SAS I recommend read from head to tail and it's not long).
