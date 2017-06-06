@@ -32,3 +32,5 @@ Of course, referring to SAS manual all the time.
 ## Algorithm (optional)
 This is more general idea about programming and learning algorithm is dangerous. It will turn you into a computer-minded and force you to think like a computer. When you get bored, try this.
 1. Algorithms by Robert Sedgewick from Coursera.
+
+SAS and all other SAS Institute Inc. product or service names are registered trademarks or trademarks of SAS Institute Inc. in the USA and other countries. ® indicates USA registration.
